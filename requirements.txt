@@ -1,4 +1,4 @@
-aiohttp==3.11.13
+aiohttp==3.13.4
 Pyrogram==2.0.106
 Requests==2.32.3
 UserAgentReplica==1.1.1

@@ -4,4 +4,4 @@ Requests==2.33.0
 UserAgentReplica==1.1.1
 TgCrypto
 python-dotenv==1.2.2
-PyMongo==4.11.2
+PyMongo==4.18.2
